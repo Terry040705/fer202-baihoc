@@ -1,0 +1,19 @@
+{
+  "name": "baihoc",
+  "version": "1.0.0",
+  "description": "ứng dụng bài học",
+  "keywords": [
+    "baihoc"
+  ],
+  "license": "ISC",
+  "author": "MinhToan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "express": "^5.2.1"
+  }
+}
